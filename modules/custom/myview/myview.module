@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the myview feature.
+ */
+
+include_once 'myview.features.inc';
